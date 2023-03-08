@@ -151,7 +151,7 @@ if(!state.deleted && !state.confirmed){
                         type:actionTypes.reset,
                       })
                 }}
-                    >resetear, volver atras</button>
+                    >Volver</button>
         </React.Fragment>
         )
     }

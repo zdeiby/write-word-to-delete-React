@@ -124,7 +124,7 @@ if(!state.deleted && !state.confirmed){
                    onClick={()=>{
                    onReset();
                 }}
-                    >resetear, volver atras</button>
+                    >Volver</button>
         </React.Fragment>
         )
     }
